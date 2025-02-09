@@ -10,7 +10,7 @@ A simple Todo App built with React that displays real-time date and allows users
 - 🚀 **Deployed on Netlify**
 
 ## Demo
-🔗 **Live Demo:** [yourstodoapp.netlify.app](#)
+🔗 **Live Demo:** https://yourstodoapp.netlify.app/
 
 ## Installation
 
