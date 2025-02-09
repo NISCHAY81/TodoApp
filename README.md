@@ -1,8 +1,53 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Todo App
 
-Currently, two official plugins are available:
+A simple Todo App built with React that displays real-time date and allows users to add and delete tasks. The app is hosted on **Netlify**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- 📅 **Real-Time Date Display**
+- ➕ **Add Tasks**
+- ❌ **Delete Tasks**
+- 🚀 **Deployed on Netlify**
+
+## Demo
+🔗 **Live Demo:** [yourstodoapp.netlify.app](#)
+
+## Installation
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/todo-app.git
+cd todo-app
+```
+
+### Install Dependencies
+```bash
+npm install
+```
+
+### Start the Development Server
+```bash
+npm start
+```
+
+## Deployment
+The app is deployed using **Netlify**. To deploy:
+1. Push your code to GitHub.
+2. Link your repository to Netlify.
+3. Deploy your site with automatic updates.
+
+## Technologies Used
+- **React**
+- **CSS**
+- **JavaScript**
+- **Netlify** (for hosting)
+
+## Contributing
+Feel free to fork this repository and submit pull requests. Contributions are welcome! 😊
+
+## License
+This project is open-source and available under the **MIT License**.
+
+---
+Made with ❤️ by [NISCHAY SWARNKAR]
+
